@@ -25,7 +25,7 @@ h2 {
 
 input {
   border: none;
-
+  width: 90px;
   font-family: Times New Roman, serif;
   text-align: center;
 }
