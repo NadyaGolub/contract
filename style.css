@@ -36,7 +36,7 @@ input[type="text"]::placeholder {
 }
 
 .input-date {
-  width: 60px;
+  width: 90px;
   text-align: center;
 }
 
@@ -71,7 +71,7 @@ select {
   border: none;
 }
 .contract-number {
-  width: 30px;
+  width: 50px;
   font-family: Times New Roman, serif;
   font-weight: 700;
   font-size: 16px;
